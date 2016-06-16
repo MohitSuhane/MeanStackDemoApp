@@ -2,6 +2,7 @@
 A demo application that uses Mean Stack end-to-end.
 
 Need to donwload below items:-
+
 1. MongoDb - https://www.mongodb.com/download-center#community.
 2. NodeJs - https://nodejs.org/en/download/.
 3. AngularJs - https://docs.angularjs.org/misc/downloading.
@@ -11,7 +12,7 @@ See below link to install MongoDB on windows:-
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
 Run Configuration:-
-Once MongoDB id installed follow below steps:
+Once MongoDB is installed follow below steps:
 
 1. Open Cmd with admin privilages and navigate to the bin folder of MongoDB.
 2. Type Mongod, this will start your MongoDB server.
