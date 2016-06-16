@@ -14,10 +14,13 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 Run Configuration:-
 Once MongoDB is installed follow below steps:
 
-1. Open Cmd with admin privilages and navigate to the bin folder of MongoDB.
+1. Open Cmd with admin privileges and navigate to the bin folder of MongoDB.
 2. Type Mongod, this will start your MongoDB server.
 3. Type Mongo, this will connect to the service
 4. Now type "use mean-demo", this will open mean-demo DB or create a new DB named mean-demo, if it does not exist.
 5. Type "db.createCollection("meeetups")", this will create a collection named meetups.
-6. Now you can run the application and data gets saved to mean-demo meetups collections and fetch from db as well.
+6. Now you can run the application, when you click Add then the data gets saved to DB name mean-demo and meetups collections and on page load the data is fetched from the same collection.
+
+
+
 
